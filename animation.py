@@ -51,4 +51,4 @@ def save_animation(filename):
     ani.save(filename, writer=writer)
 
 if __name__ == "__main__":
-    save_animation("janestreet_cricket.gif")
+    save_animation("janestreet_baseball.gif")
